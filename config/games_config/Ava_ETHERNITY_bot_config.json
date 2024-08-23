@@ -1,0 +1,10 @@
+{
+    "bot_name": "Ava ETHERNITY",
+    "bot_id": "Ava_ETHERNITY_bot",
+    "launch_button_icon": "Ava_ETHERNITY_bot_launch_icon.png",
+    "action_intervals": {
+        "start_game": 5,
+        "perform_action": 30
+    },
+    "last_access_time": "2024-08-23 23:40:07"
+}

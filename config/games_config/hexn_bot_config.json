@@ -1,0 +1,9 @@
+{
+    "bot_name": "HEXN.IO App",
+    "bot_id": "hexn_bot",
+    "launch_button_icon": "hexn_bot_launch_icon.png",
+    "action_intervals": {
+        "start_game": 5,
+        "perform_action": 30
+    }
+}

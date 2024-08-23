@@ -1,0 +1,5 @@
+PyAutoGUI~=0.9.54
+screeninfo~=0.8.1
+opencv-python~=4.10.0.84
+pytesseract~=0.3.13
+numpy~=2.1.0

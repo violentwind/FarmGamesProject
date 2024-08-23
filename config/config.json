@@ -1,0 +1,44 @@
+{
+    "games": [
+        {
+            "bot_name": "Ava ETHERNITY",
+            "bot_id": "Ava_ETHERNITY_bot",
+            "launch_button_icon": "Ava_ETHERNITY_bot_launch_icon.png"
+        },
+        {
+            "bot_name": "BitFight Token Miner",
+            "bot_id": "BitFightGameBot",
+            "launch_button_icon": "BitFightGameBot_launch_icon.png"
+        },
+        {
+            "bot_name": "Blum",
+            "bot_id": "blum",
+            "launch_button_icon": "blum_launch_icon.png"
+        },
+        {
+            "bot_name": "HEXN.IO App",
+            "bot_id": "hexn_bot",
+            "launch_button_icon": "hexn_bot_launch_icon.png"
+        },
+        {
+            "bot_name": "Iceberg",
+            "bot_id": "IcebergAppBot",
+            "launch_button_icon": "IcebergAppBot_launch_icon.png"
+        },
+        {
+            "bot_name": "KOLO",
+            "bot_id": "kolo",
+            "launch_button_icon": "kolo_launch_icon.png"
+        },
+        {
+            "bot_name": "OKX Racer",
+            "bot_id": "OKX_official_bot",
+            "launch_button_icon": "OKX_official_bot_launch_icon.png"
+        },
+        {
+            "bot_name": "TabiZoo",
+            "bot_id": "tabizoobot",
+            "launch_button_icon": "tabizoobot_launch_icon.png"
+        }
+    ]
+}
