@@ -1,5 +1,7 @@
 import logging
+
 import pyautogui
+
 
 class ImageUtils:
     @staticmethod
