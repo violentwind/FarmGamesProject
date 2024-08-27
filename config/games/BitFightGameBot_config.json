@@ -1,0 +1,9 @@
+{
+    "bot_name": "BitFight Token Miner",
+    "bot_id": "BitFightGameBot",
+    "launch_button_icon": "BitFightGameBot_launch_icon.png",
+    "action_intervals": {
+        "start_game": 5,
+        "perform_action": 30
+    }
+}

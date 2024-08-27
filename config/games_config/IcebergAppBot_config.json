@@ -1,9 +1,0 @@
-{
-    "bot_name": "Iceberg",
-    "bot_id": "IcebergAppBot",
-    "launch_button_icon": "IcebergAppBot_launch_icon.png",
-    "action_intervals": {
-        "start_game": 5,
-        "perform_action": 30
-    }
-}

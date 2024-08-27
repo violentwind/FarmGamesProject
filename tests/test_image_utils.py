@@ -1,5 +1,5 @@
-import sys
 import os
+import sys
 
 # Додаємо кореневий шлях проекту до sys.path
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -7,7 +7,7 @@ project_root = os.path.abspath(os.path.join(current_dir, '..'))
 sys.path.insert(0, project_root)
 
 import cv2
-from modules.image_processing.image_utils import ImageUtils, ScreenUtils
+from modules.image_processing import ImageUtils, ScreenUtils
 
 def test_get_screen_resolution():
     width, height = ScreenUtils.get_screen_resolution()

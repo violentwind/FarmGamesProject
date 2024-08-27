@@ -1,0 +1,9 @@
+{
+    "bot_name": "Blum",
+    "bot_id": "blum",
+    "launch_button_icon": "blum_launch_icon.png",
+    "action_intervals": {
+        "start_game": 5,
+        "perform_action": 30
+    }
+}
