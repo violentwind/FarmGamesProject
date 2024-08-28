@@ -1,5 +1,3 @@
-# game_strategy.py
-
 from abc import ABC, abstractmethod
 
 

@@ -1,21 +1,23 @@
 import json
-import time
 import os
+import time
 from datetime import datetime
 from pathlib import Path
-from games.game_strategy import GameStrategy  # Імпортуємо інтерфейс
+
+from games.game_strategy import GameStrategy
 from modules.image_processing import ImageUtils
-from config.logger_config import main_logger
+from modules.logger_config import main_logger
+
 
 class AvaEthernityBot(GameStrategy):
 
     def __init__(self):
-        self.config_path = Path("config/games/Ava_ETHERNITY_bot_config.json")  # Виправлено шлях
-        self.assets_path = os.path.join('assets', 'ava_ethernity_bot')
+        self.config_path = Path("games/configs/ava_ethernity_bot.json")
+        self.assets_path = os.path.join('games', 'strategies', 'ava_ethernity_bot')  # Оновлено шлях до асетів
 
     def launch(self):
         main_logger.info("Launching Ava ETHERNITY game...")
-        time.sleep(5)
+        time.sleep(3)
 
         play_button_image = os.path.join(self.assets_path, 'play_button.png')
         if ImageUtils.find_and_click_image(play_button_image, confidence=0.8):

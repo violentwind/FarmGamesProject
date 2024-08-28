@@ -1,215 +1,26 @@
-2024-08-27 00:12:20,048 INFO Starting the FarmGamesProject
-2024-08-27 00:12:20,049 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:12:20,050 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:12:20,051 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:12:20,052 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:12:20,053 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:12:20,054 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:12:20,054 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:12:20,057 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:15:43,178 INFO Starting the FarmGamesProject
-2024-08-27 00:15:43,178 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:15:43,179 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:15:43,179 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:15:43,179 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:15:43,179 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:15:43,180 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:15:43,180 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:15:43,180 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:20:58,463 INFO Starting the FarmGamesProject
-2024-08-27 00:20:58,463 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:20:58,463 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:20:58,464 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:20:58,464 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:20:58,464 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:20:58,464 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:20:58,464 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:20:58,465 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:21:48,106 INFO Starting the FarmGamesProject
-2024-08-27 00:21:48,107 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:21:48,107 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:21:48,108 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:21:48,108 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:21:48,108 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:21:48,109 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:21:48,109 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:21:48,109 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:21:50,797 INFO Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 00:21:51,579 INFO Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 00:21:51,579 INFO Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 00:21:56,798 INFO Finished playing Ava ETHERNITY
-2024-08-27 00:25:08,890 INFO Starting the FarmGamesProject
-2024-08-27 00:25:08,891 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:25:08,891 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:25:08,891 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:25:08,892 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:25:08,892 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:25:08,892 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:25:08,892 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:25:08,893 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:25:11,483 INFO Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 00:25:11,794 INFO Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 00:25:11,794 INFO Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 00:25:17,025 INFO Finished playing Ava ETHERNITY
-2024-08-27 00:26:06,270 INFO Starting the FarmGamesProject
-2024-08-27 00:26:06,271 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:26:06,271 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:26:06,271 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:26:06,271 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:26:06,272 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:26:06,272 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:26:06,272 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:26:06,272 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:26:08,429 INFO Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 00:26:08,726 INFO Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 00:26:08,726 INFO Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 00:26:13,971 INFO Finished playing Ava ETHERNITY
-2024-08-27 00:28:31,532 INFO Starting the FarmGamesProject
-2024-08-27 00:28:31,533 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:28:31,533 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:28:31,534 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:28:31,534 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:28:31,534 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:28:31,535 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:28:31,535 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:28:31,535 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:28:33,592 INFO Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 00:28:33,932 INFO Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 00:28:33,933 INFO Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 00:28:39,164 INFO Finished playing Ava ETHERNITY
-2024-08-27 00:32:47,260 INFO Starting the FarmGamesProject
-2024-08-27 00:32:47,260 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:32:47,260 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:32:47,261 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:32:47,261 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:32:47,261 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:32:47,262 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:32:47,262 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:32:47,262 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:32:48,988 INFO Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 00:32:49,319 INFO Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 00:32:49,319 INFO Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 00:32:54,563 INFO Finished playing Ava ETHERNITY
-2024-08-27 00:36:20,806 INFO Starting the FarmGamesProject
-2024-08-27 00:36:20,807 INFO Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 00:36:20,807 INFO Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 00:36:20,807 INFO Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 00:36:20,807 INFO Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 00:36:20,808 INFO Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 00:36:20,808 INFO Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 00:36:20,808 INFO Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 00:36:20,808 INFO Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 00:36:23,605 INFO Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 00:36:23,931 INFO Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 00:36:23,931 INFO Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 00:36:29,168 INFO Finished playing Ava ETHERNITY
-2024-08-27 01:10:43,982 | INFO     | Starting the FarmGamesProject
-2024-08-27 01:10:43,982 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 01:10:43,983 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 01:10:43,983 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 01:10:43,983 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 01:10:43,983 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 01:10:43,984 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 01:10:43,984 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 01:10:43,984 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 01:10:56,845 | INFO     | Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 01:10:57,172 | INFO     | Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 01:10:57,172 | INFO     | Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 01:11:02,410 | INFO     | Finished playing Ava ETHERNITY
-2024-08-27 01:17:37,688 | INFO     | Starting the FarmGamesProject
-2024-08-27 01:17:37,689 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 01:17:37,689 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 01:17:37,690 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 01:17:37,690 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 01:17:37,690 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 01:17:37,691 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 01:17:37,691 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 01:17:37,691 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 01:17:40,155 | ERROR    | No games selected. Exiting.
-2024-08-27 01:37:51,938 | INFO     | Starting the FarmGamesProject
-2024-08-27 01:37:51,939 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 01:37:51,941 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 01:37:51,941 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 01:37:51,942 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 01:37:51,942 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 01:37:51,943 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 01:37:51,943 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 01:37:51,943 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 01:37:54,774 | INFO     | Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 01:37:55,095 | INFO     | Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 01:37:55,096 | INFO     | Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 01:38:00,342 | INFO     | Finished playing Ava ETHERNITY
-2024-08-27 11:38:37,317 | INFO     | Starting the FarmGamesProject
-2024-08-27 11:38:37,320 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 11:38:37,322 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 11:38:37,323 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 11:38:37,325 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 11:38:37,327 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 11:38:37,330 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 11:38:37,332 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 11:38:37,334 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 11:38:42,284 | ERROR    | No games selected. Exiting.
-2024-08-27 11:38:47,028 | INFO     | Starting the FarmGamesProject
-2024-08-27 11:38:47,029 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 11:38:47,029 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 11:38:47,030 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 11:38:47,030 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 11:38:47,031 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 11:38:47,031 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 11:38:47,032 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 11:38:47,032 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 11:38:49,201 | INFO     | Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 11:38:51,098 | INFO     | Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 11:38:51,099 | INFO     | Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 11:38:56,608 | INFO     | Finished playing Ava ETHERNITY
-2024-08-27 11:46:52,844 | INFO     | Starting the FarmGamesProject
-2024-08-27 11:46:52,846 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 11:46:52,847 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 11:46:52,848 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 11:46:52,848 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 11:46:52,849 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 11:46:52,849 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 11:46:52,850 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 11:46:52,850 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 11:46:55,768 | INFO     | Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 11:46:56,453 | INFO     | Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 11:46:56,453 | INFO     | Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 11:46:56,453 | INFO     | Launching Ava ETHERNITY game...
-2024-08-27 11:47:01,949 | INFO     | Play button found and clicked.
-2024-08-27 11:47:01,950 | INFO     | Collecting offline bonus...
-2024-08-27 11:47:01,950 | INFO     | Performing basic actions...
-2024-08-27 11:47:01,950 | INFO     | Checking for additional activities...
-2024-08-27 11:47:01,951 | INFO     | Recording last access time: 2024-08-27 11:47:01
-2024-08-27 11:47:01,954 | INFO     | Finished playing Ava ETHERNITY
-2024-08-27 12:00:15,753 | INFO     | Starting the FarmGamesProject
-2024-08-27 12:00:15,754 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 12:00:15,755 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 12:00:15,756 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 12:00:15,756 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 12:00:15,757 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 12:00:15,758 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 12:00:15,758 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 12:00:15,759 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 12:00:18,869 | INFO     | Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 12:00:20,972 | INFO     | Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 12:00:20,973 | INFO     | Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 12:00:20,973 | INFO     | Launching Ava ETHERNITY game...
-2024-08-27 12:35:09,957 | INFO     | Starting the FarmGamesProject
-2024-08-27 12:35:09,957 | INFO     | Configuration loaded successfully for config\games\Ava_ETHERNITY_bot_config.json
-2024-08-27 12:35:09,957 | INFO     | Configuration loaded successfully for config\games\BitFightGameBot_config.json
-2024-08-27 12:35:09,957 | INFO     | Configuration loaded successfully for config\games\blum_config.json
-2024-08-27 12:35:09,957 | INFO     | Configuration loaded successfully for config\games\hexn_bot_config.json
-2024-08-27 12:35:09,957 | INFO     | Configuration loaded successfully for config\games\IcebergAppBot_config.json
-2024-08-27 12:35:09,957 | INFO     | Configuration loaded successfully for config\games\kolo_config.json
-2024-08-27 12:35:09,972 | INFO     | Configuration loaded successfully for config\games\okx_racer_config.json
-2024-08-27 12:35:09,972 | INFO     | Configuration loaded successfully for config\games\tabizoobot_config.json
-2024-08-27 12:35:12,213 | INFO     | Launching Telegram and opening chat for Ava ETHERNITY...
-2024-08-27 12:35:12,889 | INFO     | Successfully imported module: games.ava_ethernity_bot_game
-2024-08-27 12:35:12,889 | INFO     | Successfully loaded class: AvaEthernityBot from module: ava_ethernity_bot_game
-2024-08-27 12:35:12,889 | INFO     | Launching Ava ETHERNITY game...
-2024-08-27 12:35:18,360 | INFO     | Play button found and clicked.
-2024-08-27 12:35:18,361 | INFO     | Collecting offline bonus...
-2024-08-27 12:35:18,361 | INFO     | Performing basic actions...
-2024-08-27 12:35:18,361 | INFO     | Checking for additional activities...
-2024-08-27 12:35:18,362 | INFO     | Recording last access time: 2024-08-27 12:35:18
-2024-08-27 12:35:18,367 | INFO     | Finished playing Ava ETHERNITY
+2024-08-28 20:11:22,084 | INFO     | Starting the Farm Games Project...
+2024-08-28 20:11:22,087 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\ava_ethernity_bot\config.json
+2024-08-28 20:11:22,088 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\okx_official_bot\config.json
+2024-08-28 20:11:22,088 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\tabizoobot\config.json
+2024-08-28 20:11:23,855 | INFO     | Selected games: ['Ava ETHERNITY']
+2024-08-28 20:17:18,671 | INFO     | Starting the Farm Games Project...
+2024-08-28 20:17:18,673 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\ava_ethernity_bot\config.json
+2024-08-28 20:17:18,674 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\okx_official_bot\config.json
+2024-08-28 20:17:18,676 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\tabizoobot\config.json
+2024-08-28 20:17:21,192 | INFO     | Selected games: ['Ava ETHERNITY']
+2024-08-28 20:17:21,192 | INFO     | Searching for Telegram executable...
+2024-08-28 20:17:21,196 | INFO     | Found Telegram at C:\Users\hsa\AppData\Roaming\Telegram Desktop\Telegram.exe
+2024-08-28 20:17:21,196 | INFO     | Launching Telegram from C:\Users\hsa\AppData\Roaming\Telegram Desktop\Telegram.exe
+2024-08-28 20:17:39,883 | INFO     | Starting the Farm Games Project...
+2024-08-28 20:17:39,885 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\ava_ethernity_bot\config.json
+2024-08-28 20:17:39,885 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\okx_official_bot\config.json
+2024-08-28 20:17:39,887 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\tabizoobot\config.json
+2024-08-28 20:17:46,923 | WARNING  | No games selected.
+2024-08-28 20:19:30,460 | INFO     | Starting the Farm Games Project...
+2024-08-28 20:19:30,462 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\ava_ethernity_bot\config.json
+2024-08-28 20:19:30,462 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\okx_official_bot\config.json
+2024-08-28 20:19:30,462 | INFO     | Configuration loaded successfully for C:\D\FarmGamesProject\modules\..\games\tabizoobot\config.json
+2024-08-28 20:19:32,689 | INFO     | Selected games: ['Ava ETHERNITY']
+2024-08-28 20:19:32,690 | INFO     | Searching for Telegram executable...
+2024-08-28 20:19:32,692 | INFO     | Found Telegram at C:\Users\hsa\AppData\Roaming\Telegram Desktop\Telegram.exe
+2024-08-28 20:19:32,693 | INFO     | Launching Telegram from C:\Users\hsa\AppData\Roaming\Telegram Desktop\Telegram.exe
